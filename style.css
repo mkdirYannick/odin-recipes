@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(180deg, #ffffff, #318CE7) fixed;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+  text-decoration: underline;
+  font-family: "brush script MT", Verdana, sans-serif;
+  color: #991700;
+}
+
+p, a, ul, ol {
+    font-family: "trebuchet ms", Verdana; 
+}
+
+a {
+    color: rgb(9, 9, 71);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+#smaller {
+    width: 500px;
+    height: auto;
+}
+
+#homepage {
+    font-size: 15px;
+    font-weight: bold;
+    color: #991700;
+}
